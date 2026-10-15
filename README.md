@@ -12,7 +12,7 @@ This project presents an interactive Power BI dashboard for analyzing Airbnb's g
 ![Airbnb City Analysis](ratings.png)
 
 ### 3. Reviews and Host Analysis
-![Airbnb Reviews and Host Analysis](images/reviews.png)
+![Airbnb Reviews and Host Analysis](reviews.png)
 
 ## Key Performance Indicators (KPIs)
 - **Total Listings:** 279,712
